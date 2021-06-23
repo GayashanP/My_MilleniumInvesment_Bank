@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MilleniumInvesment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MilleniumInvesment_jar</output-path>
+    <root id="archive" name="MilleniumInvesment.jar">
+      <element id="module-output" name="MilleniumInvesment" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/mysql-connector-java-8.0.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/swing-layout-1.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

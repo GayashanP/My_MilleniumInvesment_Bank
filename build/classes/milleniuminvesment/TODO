@@ -1,0 +1,13 @@
+design a java frame for loading at the first. in the loading progress
+    * generate taxes
+
+taxes - table
+
+add - taxes
+
+database for emails each customer, manager and the admin has own mail box.
+    * id
+    * message
+    * from / to
+    * sent / received date
+    * 
